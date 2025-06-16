@@ -14,7 +14,7 @@
 
 ### About Me
 
-- 💼 Backend Developer at [SwaraningCode](https://swaraningcode.site/)
+- 💼 Backend Developer at [SwaraningCode](https://swaraningcode.com/)
 - 💼 Project Manager at Lion Of Informatics By PT. Rizqullah Indonesia Sejahtera
 
 ---
